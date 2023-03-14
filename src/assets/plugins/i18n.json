@@ -1,0 +1,142 @@
+{
+  "ru": {
+    "message": {
+      "fotoAlt": "Ты видишь это сообщение потому что у тебя проблемы с интернетом.",
+      "SloyLanguage": {
+        "title": "Язык",
+        "ru": "Русский",
+        "en": "Английский"
+      },
+      "SloyContacts": "Контакты",
+      "SloyContact": {
+        "title": "Контакты",
+        "call": "Вызов",
+        "callTitle": "Позвонить",
+        "noteTitle": "Заметки",
+        "noteInfo": "Мы на связи с 12 до 20 по МСК"
+      },
+      "SloyNotes": {
+        "title": "SLOY заметки",
+        "notes1": {
+          "title": " Почему выбирают нас?",
+          "text": "Команда. Под каждый проект мы создаём команду крутых специалистов, чтобы закрыть любые потребности вашего бизнеса."
+        },
+        "notes2": {
+          "title": " Наши клиенты",
+          "text": "Мы любим наших клиентов и гордимся совместными проектами. За время существования студии мы успели поработать с огромным числом компаний. Вот небольшая часть: Logitech, AMD, ASUS, ACER, Сбер, X5 Retail Group, ГазПромБанк, Роскосмос, Авито, Bud Light, Gillette, Chupa-Chups, Тинькофф, ВДНХ и другие..."
+        }
+      },
+      "SloyProject": "Подробнее",
+      "SloyProjects": "Наши проекты",
+      "SloyProjectsButton": "Проекты",
+      "SloyCookie": {
+        "title": "Куки",
+        "text": "Сайт использует куки",
+        "button-left": "НЕ ОК",
+        "button-right": "НУ ОК"
+      },
+      "SloyRules": {
+        "header": "Напоминания",
+        "title": "Наши правила",
+        "rule1": "сдавать в срок",
+        "rule2": "не играть в PS на работе",
+        "rule3": "кайфовать от работы",
+        "rule4": "меньше кофе",
+        "rule5": "чаще улыбаться",
+        "rule6": "никаких встреч в ПН",
+        "rule7": "Улееетаю, рывками глотаю свободу!"
+      },
+      "SloyText": {
+        "title": "Мы помогаем стартапам, малому и среднему бизнесу в решении ежедневных задач",
+        "info": "В целом, конечно, семантический разбор внешних противодействий влечет за собой процесс внедрения и модернизации инновационных методов управления процессами!"
+      },
+      "Team": {
+        "title": "Давай познакомим тебя<br />с нашей супер-командой",
+        "team1": {
+          "name": "Ефим Аракелов",
+          "profession": "Главный дизайнер"
+        },
+        "team2": {
+          "name": "Даша Гордеева",
+          "profession": "Менеджер"
+        },
+        "team3": {
+          "name": "Руслан Гаджиев",
+          "profession": "Дизайнер"
+        },
+        "team4": {
+          "name": "Михаил Ремизов",
+          "profession": "Разработчик"
+        },
+        "team5": {
+          "name": "Артем Коротеев",
+          "profession": "Коммерческий директор"
+        },
+        "team6": {
+          "name": "Александр Кисков",
+          "profession": "Brand designer"
+        },
+        "team7": {
+          "name": "Дмитрий Красиков",
+          "profession": "DEV Team leader"
+        },
+        "team8": {
+          "name": "Леонид Никонов",
+          "profession": "WEB developer"
+        },
+        "team9": {
+          "name": "Даниэль Акопов",
+          "profession": "WEB developer"
+        },
+        "team10": {
+          "name": "Даниил Маслов",
+          "profession": "WEB developer"
+        },
+        "team11": {
+          "name": "Артем Битюцкий",
+          "profession": "WEB developer"
+        }
+      },
+      "Info": "Тут еще один заголовок.<br />Большой жирный емкий<br />классный хороший",
+      "Contacts": {
+        "title": "Так что пиши нам, если уже<br />представляешь, как мы<br />работаем вместе"
+      },
+      "Projects": {
+        "title": "Мы создаем огромный спектр <br /> цифровых продуктов. И да,<br /> мы уже делали это раньше."
+      },
+      "SloyKit": {
+        "title": "Все работы на сайт не поместятся, поэтому давай скинем MediaKit. Там много годного",
+        "info": "Нам понадобится твой номер. Все скинем в Telegram или WhatsUp",
+        "answer": "MediaKit уже летит к тебе. Пару минут ожидания"
+      } 
+    }
+  },
+  "en": {
+    "message": {
+      "fotoAlt": "You are seeing this message because you are having internet problems.",
+      "SloyLanguage": {
+        "title": "Language",
+        "ru": "Russian",
+        "en": "English"
+      },
+      "SloyContacts": "Contacts",
+      "SloyNotes": {
+        "title": "SLOY notes",
+        "notes1": {
+          "title": "Why choose us?",
+          "text": "Team. For every project we create..."
+        }
+      },
+      "SloyContact": {
+        "title": "Contacts",
+        "call": "call",
+        "callTitle": "call",
+        "noteTitle": "Notes",
+        "noteInfo": "We are in touch from 12 to 20 Moscow time"
+      },
+      "SloyProject": "Details",
+      "SloyProjects": "Our Projects",
+      "SloyProjectsButton": "Projects"
+    }
+  }
+}
